@@ -17,12 +17,12 @@ Usage
 
 To run the application:
 
-Clone the repository.
-Compile and run the AadharPanMatcher.java file.
-Input Aadhar and PAN details for matching and validation.
-Installation
+1. Clone the repository.
+2. Compile and run the AadharPanMatcher.java file.
+3. Input Aadhar and PAN details for matching and validation.
+4. Installation
 
 Ensure you have:
 
-Java 8 or above installed.
-An IDE (like IntelliJ IDEA, Eclipse) or a text editor to run the program.
+1. Java 8 or above installed.
+2. An IDE (like IntelliJ IDEA, Eclipse) or a text editor to run the program.
